@@ -1,6 +1,6 @@
 function DonationReceipt() {
   const receiptData = {
-    receiptNumber: "PMCARES/Web/202601201210206278",
+    receiptNumber: "PMCARES@SBI/202601201210206278",
     donationDate: "20-Jan-2026",
     transactionOrderNumber: "202601201210206278",
     name: "Mr Karthikeyan Ramalingam",
