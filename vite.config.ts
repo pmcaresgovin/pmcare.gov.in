@@ -5,7 +5,7 @@ import path from "path";
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/PM-CARES/",
+  base: "/pmcare.gov.in/",
   optimizeDeps: {
     exclude: ["lucide-react"],
   },
@@ -15,3 +15,4 @@ export default defineConfig({
     },
   },
 });
+
